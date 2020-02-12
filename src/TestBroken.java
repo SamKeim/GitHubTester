@@ -7,6 +7,8 @@ public class TestBroken {
 		int b = 2;
 		
 		System.out.println(a + b);
+		
+		System.out.println("the answer is always 3");
 
 	}
 
