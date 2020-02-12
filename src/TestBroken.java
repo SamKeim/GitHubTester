@@ -2,7 +2,11 @@
 public class TestBroken {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		int a = 9;
+		int b = 15;
+		
+		int sum = a + b;
+		System.out.println(sum);
 
 	}
 
