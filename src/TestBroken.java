@@ -2,11 +2,11 @@
 public class TestBroken {
 
 	public static void main(String[] args) {
-		int a = 9;
-		int b = 15;
+
+		int a = 1;
+		int b = 2;
 		
-		int sum = a + b;
-		System.out.println(sum);
+		System.out.println(a + b);
 
 	}
 
